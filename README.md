@@ -5,6 +5,7 @@ Deportista amateur, a veces gammer....
 
 Me puedes contactar a través de mi formulario de contacto en http://carlosaguirre.valpotechlab.cl/
 
-<!---
-C4rlosAguirre/C4rlosAguirre es un repositorio donde poder revisar mi perfil.
---->
+Proyectos en los que he participado:
+- Sistema de detección de grifos en la ciudad de Valparaíso, año 2007.
+- Sistema de Teleasistencia Médica y psicológica, año 2018.
+
