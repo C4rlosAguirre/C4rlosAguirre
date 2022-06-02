@@ -1,7 +1,7 @@
 **Hola mi nombre es Carlos Aguirre**
 
 Mis intereses son la tecnología, por lo que estoy en constante aprendizage para colaborar en distintos proyectos.
-Deportista amateur, a veces gammer....
+Deportista amateur, a veces gammer, algunas otras al go de músico....
 
 Me puedes contactar a través de mi formulario de contacto en http://carlosaguirre.valpotechlab.cl/
 
