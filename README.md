@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-C4rlosAguirre/C4rlosAguirre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+C4rlosAguirre/C4rlosAguirre es un repositorio donde poder revisar mi perfil.
 --->
